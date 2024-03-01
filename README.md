@@ -1,4 +1,4 @@
-#Random Number Generator
+# Random Number Generator
 
 This Is a simple fullstack random number generator program developed by @chif-vas(me) during the node and typesript dvelopment course.
 
