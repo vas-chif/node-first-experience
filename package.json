@@ -14,5 +14,8 @@
     "generator"
   ],
   "author": "@chif-vas <vasile.chifeac@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
 }
